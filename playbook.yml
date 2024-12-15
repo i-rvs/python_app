@@ -1,0 +1,6 @@
+---
+- name: Deloy web app in python
+  hosts: webserver
+  tasks:
+    - name: Ping the webservers
+      ping:

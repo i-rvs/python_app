@@ -1,0 +1,3 @@
+[webserver]
+192.168.1.109 ansible_user=raviworker1 ansible_ssh_pass=Ravi@1234
+192.168.1.105 ansible_user=ravi ansible_ssh_pass=Ravi@1234
